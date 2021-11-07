@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dnd5eSRD</string>
+
+    <string name="activity_main_title">Pages</string>
+
+    <string name="activity_attribute_title_textview">Attributes</string>
+    <string name="activity_attribute_attributename_textview">Attribute Name</string>
+    <string name="activity_attribute_save_button">Save</string>
+    <string name="activity_attribute_attributename_textview_accesability_hint">Text input for an attribute\'s name</string>
+
+    <string name="menu_item_activity_attribute_title_textview">Attributes</string>
+    <string name="menu_item_activity_skill_title_textview">Skills</string>
+    <string name="menu_item_activity_class_title_textview">Classes</string>
+    <string name="menu_item_activity_hitdie_title">Hit Die</string>
+
+    <string name="list_item_skill_id_placeholder">Id</string>
+    <string name="list_item_skill_name_placeholder">Name</string>
+    <string name="list_item_skill_attribute_id_placeholder">Attribute Id</string>
+
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
